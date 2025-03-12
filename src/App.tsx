@@ -60,7 +60,7 @@ function App() {
         culinary: {
           title: "Culinary Journey",
           description: "Discover the diverse flavors of Indian cuisine, from street food to royal delicacies.",
-          image: "https://sukhis.com/app/uploads/2022/07/image4.jpg"
+          image: "https://www.tastingtable.com/img/gallery/20-delicious-indian-dishes-you-have-to-try-at-least-once/intro-1733153567.jpg"
         }
       };
     } else {

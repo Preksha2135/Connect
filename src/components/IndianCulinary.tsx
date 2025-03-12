@@ -1,5 +1,5 @@
 import React from 'react';
-import ImageSlider from "./ImageSlider"; 
+// import ImageSlider from "./ImageSlider"; 
 
 export function IndianCulinary({ onClose }: { onClose: () => void }) {
   const handleBackdropClick = (e: React.MouseEvent<HTMLDivElement>) => {
