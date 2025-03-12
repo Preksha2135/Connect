@@ -83,19 +83,6 @@ const quizQuestions: QuizQuestion[] = [
   },
   {
     id: '7',
-    question: 'What is considered rude when giving gifts in Japan?',
-    options: [
-      'Giving an odd number of gifts',
-      'Giving an even number of gifts',
-      'Wrapping a gift neatly',
-      'Receiving a gift with both hands'
-    ],
-    correctAnswer: 0,
-    explanation: 'Giving an odd number of gifts is considered unlucky in Japan.',
-    culture: 'japan'
-  },
-  {
-    id: '8',
     question: 'What is the proper way to accept a business card in Japan?',
     options: [
       'Take it with one hand and put it in your pocket immediately',
@@ -108,7 +95,7 @@ const quizQuestions: QuizQuestion[] = [
     culture: 'japan'
   },
   {
-    id: '9',
+    id: '8',
     question: 'What is a common custom in Indian weddings?',
     options: [
       'Wearing black attire',
@@ -121,7 +108,7 @@ const quizQuestions: QuizQuestion[] = [
     culture: 'india'
   },
   {
-    id: '10',
+    id: '9',
     question: 'What does bowing in Japan generally signify?',
     options: [
       'Apology, greeting, or gratitude',
@@ -134,7 +121,7 @@ const quizQuestions: QuizQuestion[] = [
     culture: 'japan'
   },
   {
-    id: '11',
+    id: '10',
     question: 'What is the traditional attire for Indian women at formal events?',
     options: [
       'Kimono',
@@ -147,7 +134,7 @@ const quizQuestions: QuizQuestion[] = [
     culture: 'india'
   },
   {
-    id: '12',
+    id: '11',
     question: 'How do Japanese people traditionally sit on the floor?',
     options: [
       'With legs crossed',
@@ -160,7 +147,7 @@ const quizQuestions: QuizQuestion[] = [
     culture: 'japan'
   },
   {
-    id: '13',
+    id: '12',
     question: 'What is considered impolite when eating in Japan?',
     options: [
       'Slurping noodles loudly',
@@ -173,7 +160,7 @@ const quizQuestions: QuizQuestion[] = [
     culture: 'japan'
   },
   {
-    id: '14',
+    id: '13',
     question: 'What is the traditional drink often served with meals in Japan?',
     options: [
       'Green tea',
@@ -186,7 +173,7 @@ const quizQuestions: QuizQuestion[] = [
     culture: 'japan'
   },
   {
-    id: '15',
+    id: '14',
     question: 'What is an essential rule when visiting someone’s home in India?',
     options: [
       'Bringing a gift',
@@ -199,7 +186,7 @@ const quizQuestions: QuizQuestion[] = [
     culture: 'india'
   },
   {
-    id: '16',
+    id: '15',
     question: 'How do Japanese people usually greet each other?',
     options: [
       'By shaking hands',

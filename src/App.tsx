@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import ImageSlider from "./components/imageslider";
 import { Torus as Torii, BookTemplate as Temple, Languages as Language, Utensils, Map, Calendar, Users, BookOpen, MessageCircle, Brain } from 'lucide-react';
 import { CultureSelector } from './components/CultureSelector';
 import { EtiquetteQA } from './components/Etiquette';
@@ -227,9 +226,6 @@ function App() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {renderContent()}
       </main>
-      <div className="min-h-screen bg-gray-100">
-        <ImageSlider />
-      </div>
 
       <footer className="bg-gray-900 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
