@@ -77,8 +77,8 @@ npm run dev
 
 ## 🤝 Contributors
 
-- Varsha
 - Preksha Jain
+- Varsha
 - Swathi R Kini
 
 ## 📄 License
